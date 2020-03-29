@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  .cont {
+    margin-top: 20px;
+    border-color: grey;
+    border-width: 2px;
+    border-style: solid;
+    width: 600px;
+
+  }
+  .itemList {
+    list-style: none;
+    padding-left: 0;
+  }
+  .shop {
+    /*margin-bottom: 20px;*/
+    /*border: 1px solid blueviolet;*/
+    padding: 20px;
+  
+  }
+  .item {
+    display: block;
+    color: rgb(224, 24, 108);
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .checked{
+    
+    margin-right: 10px;
+  }
+  .line > p {
+    text-decoration: line-through;
+  }
+  /*
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  button, input[type="text"] {
+    padding: 5px;
+  }
+  
+  .cont{
+      border:1px
+  }
+  .checked{
+      padding: 10px;
+  }
+
+  .checkedItem {
+    text-decoration: line-through;
+  }*/
